@@ -15,7 +15,7 @@
 <a href="https://github.com/sarthaksalunke05" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://linkedin.com/in/sarthak-salunke" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+  <a href="https://linkedin.com/in/sarthak-salunke-4423512a1" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://instagram.com/_avdhut_salunke_" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
