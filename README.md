@@ -4,7 +4,7 @@
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: **Data Analytics student, currently deep-diving into time series analysis and predictive modeling. Open to collaboration on learning projects.**
+- 🌱 I’m currently learning: **currently deep-diving into time series analysis and predictive modeling. Open to collaboration on learning projects.**
 - 💬 Ask me about: **Power BI, Data Analytics**
 - 📫 How to reach me: [sarthaksalunke05@gmail.com](mailto:sarthaksalunke05@gmail.com)
 - ⚡ Fun fact: **i am a photographer also**
